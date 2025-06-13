@@ -95,5 +95,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Your Full Name
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/Nilesh2697)
+- LinkedIn: [linkedin.com/in/yourusername](https://github.com/Nilesh2697)

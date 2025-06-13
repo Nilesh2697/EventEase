@@ -9,7 +9,7 @@ export default function Footer() {
           <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
             Built by{" "}
             <Link
-              href="https://github.com/yourusername"
+              href="https://github.com/Nilesh2697"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
@@ -20,11 +20,11 @@ export default function Footer() {
           </p>
         </div>
         <div className="flex items-center gap-4">
-          <Link href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+          <Link href="https://github.com/Nilesh2697" target="_blank" rel="noreferrer">
             <Github className="h-5 w-5" />
             <span className="sr-only">GitHub</span>
           </Link>
-          <Link href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+          <Link href="www.linkedin.com/in/nilesh-prajapati26" target="_blank" rel="noreferrer">
             <Linkedin className="h-5 w-5" />
             <span className="sr-only">LinkedIn</span>
           </Link>
